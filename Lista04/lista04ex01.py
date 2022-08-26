@@ -6,4 +6,5 @@ dicionario = {
   "kira":"rosa"
 }
 
+print("O dicionario é:")
 print(dicionario)
